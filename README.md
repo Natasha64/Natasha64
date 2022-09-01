@@ -6,6 +6,14 @@
         y estoy dispuesta en poner todo mi empeño.
      </h3>
 </div>
+<h1>
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Natasha&theme=cobalt&hide_border=&locale=es)](https://git.io/streak-stats)
+
+<h1>
+
+
+
+
 ---
 👨‍💻Sobre mí :
 
